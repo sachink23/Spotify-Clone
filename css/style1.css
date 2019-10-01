@@ -1,0 +1,49 @@
+
+
+body{
+
+	background: green;
+}
+
+.main-section1 {
+
+	margin-top: 200px;
+}
+
+.submit-button{
+	background: #1BCA9B;
+}
+
+.submit-button:hover {
+	background: #10A881;
+}
+
+.main-section2 {
+	padding: 30px;
+	border-radius: 10px;
+}
+
+
+label{
+	color: #000;
+	font-size: 25px;
+}
+
+.error-msg{
+	background: red;
+	color: white;
+	padding: 2px;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
