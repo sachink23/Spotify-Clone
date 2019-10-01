@@ -1,4 +1,5 @@
-#Spotify Clone -
+# Spotify Clone -
+
 Created this project in one of my courses at https://learncodeonline.in. 
 Just a simple clone hosted at https://spotify.kportal.in
 Not yet mobile responsive, working for it.
