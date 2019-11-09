@@ -1,7 +1,7 @@
 # Spotify Clone -
 
 Created this project in one of my courses at https://learncodeonline.in. 
-Just a simple clone hosted at https://spotify.kportal.in
+Just a simple clone withou ML or anything...
 Not yet mobile responsive, working for it.
 
 * default admin email => admin@email.com Password => Pass@1234
